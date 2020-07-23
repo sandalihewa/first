@@ -6,4 +6,7 @@ Pasta
 Chicken curry
 Pizza
 
+Beans
+potato curry
+
 Thank you.
